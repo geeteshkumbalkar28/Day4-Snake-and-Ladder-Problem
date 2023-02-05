@@ -18,7 +18,7 @@ public class PlayWithTwoPlayer
 		
 		// scanner class and Random object is creat 
 		Scanner scan = new Scanner(System.in);
-		PlayWithTwogitPlayer obj = new PlayWithTwoPlayer();
+		PlayWithTwoPlayer obj = new PlayWithTwoPlayer();
 		Random rand = new Random();
 		
 		//if the player is play the game single or double
